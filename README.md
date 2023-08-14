@@ -18,6 +18,6 @@ Criando um sistema bancário com Python para desafio de projeto da DIO aplicando
 -  Armazenados em variável
 -  Exibidos na operação de Extrato
 
-## Operação Extrato
+## 4. Operação Extrato
 -  Listagem de todos os Depósitos e Saques realizado na conta
 -  Exibição do saldo atual em conta
